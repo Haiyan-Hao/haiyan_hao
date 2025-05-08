@@ -15,7 +15,7 @@ You can learn more about my academic background and activities on my [official w
 My research focuses on leveraging advanced analytics and computational approaches to empower human communities in addressing a wide range of social and environmental challenges—such as technological disruptions and extreme events—with the goal of contributing to smart and resilient urban development. My past work has incorporated a variety of techniques, including:
 - Geo-simulation (e.g., cellular automata, agent-based modeling)
 - Multi-modal social media data mining
-- GeoAI (e.g., graph-based deep learning GCN & GMT, spatio-temporal deep learning, interpretable/explainable AI)
+- GeoAI (e.g., graph-based deep learning GCN & GAT, spatio-temporal deep learning, interpretable/explainable AI)
 - Real-time computing frameworks (e.g., Apache Spark, Kafka, Flink)
 - Conventional statistical approaches, machine learning models, Bayesian Network model, network analysis, etc.
 
