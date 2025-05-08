@@ -26,4 +26,4 @@ Recent Research Directions:
 - LLM-assisted KG construction to model complex urban crisis evolution
 - LLM-assisted geo-simulation for informed urban project planning & evaluation
 - Integrating urban data streams and digital twins to support adaptive urban management and decision-making
-- Automated scenario construction referring to Geo-KG
+- etc.
