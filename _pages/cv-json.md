@@ -30,6 +30,6 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/assets/CV_HaiyanHao_2025May.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+  <a href="https://github.com/Haiyan-Hao/haiyan_hao/blob/master/assets/CV_HaiyanHao_2025May.pdf class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/assets/CV_HaiyanHao_2025May.pdf" class="btn btn--inverse">View Markdown CV</a>
 </div>
