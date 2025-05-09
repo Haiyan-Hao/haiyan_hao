@@ -1,5 +1,10 @@
-Peer-Review Journal Publication (selected)
-------
+---
+title: "Peer-Review Journal Publication (selected)"
+collection: publications
+type: "Publications"
+permalink: /publications/journal_publication
+---
+
 (*: corresponding author)
 
 [11] Hao, H., Lin, J., Qiu, S., Liu, L., & Dai, J. (2025). [Comparing public willingness-to-pay for different low-carbon measures: A case study of Shenzhen, China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319687). [_PloS ONE_], 20(3), e0319687.
