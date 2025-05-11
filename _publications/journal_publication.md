@@ -1,8 +1,5 @@
 ---
 title: "Peer-Review Journal Publication (selected)"
-collection: publications
-type: "Publications"
-permalink: /publications/journal_publication
 ---
 
 (*: corresponding author)
