@@ -9,8 +9,7 @@ redirect_from:
 
 Hello! 
 --------
-My name is Haiyan Hao (郝海燕), and I am an Assistant Professor affiliated with both the Division of Computational Social Science and the Division of Development and Governance at the School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen).
-You can learn more about my academic background and activities on my [official website](https://myweb.cuhk.edu.cn/haohaiyan). Before joining CUHK-Shenzhen, I earned my Ph.D. in Urban and Regional Planning from the University of Florida.
+My name is Haiyan Hao (郝海燕), and I am an Assistant Professor in the Division of Computational Social Science (CSS) at the School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). Before joining CUHK-Shenzhen, I earned my Ph.D. in Urban and Regional Planning from the University of Florida. You can learn more about my academic background and activities on my [official website](https://myweb.cuhk.edu.cn/haohaiyan). 
 
 My research focuses on leveraging advanced analytics and computational approaches to empower human communities in addressing a wide range of social and environmental challenges—such as technological disruptions and extreme events—with the goal of contributing to smart and resilient urban development. My past work has incorporated a variety of techniques, including:
 - Geo-simulation (e.g., cellular automata, agent-based modeling)
@@ -23,7 +22,7 @@ These methods have supported several National Science Foundation (NSF)-funded pr
 
 Recent Research Directions:
 --------
-- LLM-assisted KG construction to model complex urban crisis evolution
-- LLM-assisted geo-simulation for informed urban project planning & evaluation
-- Integrating urban data streams and digital twins to support adaptive urban management and decision-making
+My recent studies focuses on:
+- LLM-assisted KG construction to model & simulate complex urban crisis evolution
+- LLM-assisted geo-simulation supporting urban scenario planning
 - etc.
