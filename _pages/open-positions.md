@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /open-positions/
 title: "Open Positions"
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /wordpress/open-positions/
 ---
 
 ## Full-Time Research Assistant (RA) – Urban Resilience & AI (URAI) Lab
