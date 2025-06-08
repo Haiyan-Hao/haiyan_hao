@@ -7,4 +7,5 @@ redirect_from:
   - /resume-json
 ---
 
-[Click to Download CV](https://github.com/Haiyan-Hao/haiyan_hao/blob/master/assets/CV_HaiyanHao_2025May.pdf)
+You can find my CV [here](https://github.com/Haiyan-Hao/haiyan_hao/blob/master/files/CV_HaiyanHao_2025June.pdf)
+You can find my CV [here](https://github.com/Haiyan-Hao/haiyan_hao/files/CV_HaiyanHao_2025June.pdf)
