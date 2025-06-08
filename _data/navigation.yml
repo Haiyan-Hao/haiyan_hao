@@ -14,11 +14,11 @@ main:
   - title: "News"
     url: /news/    
 
- # - title: "Teaching"
- #   url: /teaching/    
+  - title: "Open Positions"
+    url: /open-positions/    
         
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #  url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
