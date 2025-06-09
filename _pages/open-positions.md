@@ -20,13 +20,13 @@ The Urban Resilience & AI (URAI) Lab, led by Dr. Haiyan Hao at CUHK-Shenzhen, se
 -	Support ad-hoc research tasks as needed.
 
 ### The qualified candidate is expected to:
--	Be porficiency in Python
--	Experience in urban/data analytics, geo-simulation, GIS, or related methods;
+-	Proficiency in Python
+-	Experiences in urban/data analytics, geo-simulation, GIS, or related methods;
 -	Strong problem-solving skills and ability to work independently
 
 ### Preferred (Optional but Advantageous):
 -	Familiarity with deep learning frameworks (e.g., CNN, LSTM, GAN, GCN)
--	Experience with LLM agent development, API deployment, or cloud computing.
+-	Experiences with LLM agent development, API deployment, or cloud computing.
 -	Strong scientific writing skills, including the ability to create high-quality conceptual figures for publications.
 
 ### About Me:
