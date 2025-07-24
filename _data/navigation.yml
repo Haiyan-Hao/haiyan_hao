@@ -14,14 +14,11 @@ main:
   - title: "News"
     url: /news/    
 
+  - title: "Team Members"
+    url: /team-members/  
+
   - title: "Open Positions"
     url: /open-positions/    
         
-  # - title: "Blogs"
-  #  url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
   - title: "CV"
     url: /cv-json/
