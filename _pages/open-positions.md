@@ -7,7 +7,9 @@ redirect_from:
   - /wordpress/open-positions/
 ---
 
-## Full-Time Research Assistant (RA) – Urban Resilience & AI (URAI) Lab
+## Full-Time Research Assistant (RA) – Urban Resilience & AI (URAI) Lab (Expired)
+
+**_(This position was filled, stay tuned for future opportunities)_**
 
 ### Position Overview:
 
